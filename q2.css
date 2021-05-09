@@ -1,0 +1,27 @@
+.relative{
+    position: relative;
+    background-color: black;
+    height: 500px;
+    width: 500px;
+}
+
+.yellowabsolute{
+    background-color: yellow;
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    top: 250px;
+    left:250px;
+    /* z-index: -1; */
+}
+
+
+.redabsolute{
+    background-color: red;
+    position: absolute;
+    top: 35px;
+    right: 0px;
+    height: 100px;
+    width: 100px;
+}
+
