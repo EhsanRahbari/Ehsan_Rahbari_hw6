@@ -1,0 +1,26 @@
+.floatleft{
+    float: left;
+}
+
+.grayboxfloat{
+    float: left;
+    height: 250px;
+    width: 250px;
+    margin: 5px;
+    background-color: gray;
+}
+
+.graybox{
+    height: 250px;
+    width: 250px;
+    margin: 2px;
+    background-color: gray;
+}
+.clearfix {
+    overflow: auto;
+}
+
+
+.inline{
+    display: inline-block;
+}
