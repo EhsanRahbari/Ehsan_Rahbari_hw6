@@ -1,0 +1,30 @@
+.header{
+    color: white;
+    background-color: turquoise;
+    height: 100px;
+}
+
+.flex{
+    display: flex;
+    flex-direction: row;
+}
+
+.main{
+    height: 250px;
+    width: 500px;
+}
+
+.sidebar{
+    background-color: blue;
+    color: white;
+    height: 250px;
+    width: 200px;
+}
+
+.nav{
+    background-color: purple;
+    color: white;
+    height: 250px;
+    width: 200px;
+
+}
